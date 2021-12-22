@@ -1,0 +1,12 @@
+body {
+  background-image: url("https://www.cambridgemaths.org/Images/a%20mean%20bean%20image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p {
+  font-style: italic;
+}
